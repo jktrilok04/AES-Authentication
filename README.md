@@ -1,8 +1,4 @@
-Here is a `README.md` file for your project:  
 
----
-
-```markdown
 # AES-Encrypted Authentication System
 
 ## 📖 Overview
