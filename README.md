@@ -87,6 +87,9 @@ After compilation, execute the program:
 ## 📸 Screenshots
 
 ![WhatsApp Image 2025-02-10 at 21 04 16_1bc8b630](https://github.com/user-attachments/assets/bdaca809-ca71-44c9-8f02-65bf0438fe4a)
+![WhatsApp Image 2025-02-10 at 21 04 16_c1bbe619](https://github.com/user-attachments/assets/b00794c4-7347-4cf9-961d-0817cd1ebc97)
+![image](https://github.com/user-attachments/assets/0b647af4-a6ff-4e6b-b535-b9dec9058b37)
+![WhatsApp Image 2025-02-10 at 21 04 15_0b4c5c64](https://github.com/user-attachments/assets/8cbcc58b-d89c-4230-9151-c8a7437cd9e7)
 
 
 ---
