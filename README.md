@@ -137,29 +137,3 @@ This project is licensed under the **MIT License**. Feel free to modify and dist
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve the project:
-
-1. Fork the repository 🍴
-2. Create a new branch 🔀
-3. Commit your changes 🎯
-4. Submit a Pull Request 📨
-
----
-
-## 📬 Contact
-
-For any queries, reach out via:
-
-📧 Email: your.email@example.com  
-🐙 GitHub: [yourusername](https://github.com/yourusername)  
-
----
-
-🚀 **Happy Encrypting!**
-```
-
----
-
-This `README.md` file provides a structured, user-friendly, and professional guide for your project. Let me know if you want any modifications! 🚀
