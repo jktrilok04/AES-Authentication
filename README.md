@@ -86,7 +86,8 @@ After compilation, execute the program:
 
 ## 📸 Screenshots
 
-*(Add screenshots of the login interface and authentication results here.)*
+![WhatsApp Image 2025-02-10 at 21 04 16_1bc8b630](https://github.com/user-attachments/assets/bdaca809-ca71-44c9-8f02-65bf0438fe4a)
+
 
 ---
 
